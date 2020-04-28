@@ -1,4 +1,4 @@
-me : "HelloWorld.java". */
+me : "this is krishna and my first git classHelloWorld.java". */
 class HelloWorld 
 { 
     // Your program begins with a call to main(). 
